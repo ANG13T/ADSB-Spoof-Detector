@@ -1,0 +1,2 @@
+hex,type,flight,r,t,alt_baro,gs,track,baro_rate,lat,lon,nic,rc,seen_pos,mlat,tisb,messages,seen,rssi,is_spoofed
+845f9f,adsc,KZZFJS51,JA11DFKZ,B748,31996,487.0,244.0,48,57.32872,-177.562752,0,0,873.399,[],[],4420465,803.5,-29.2,True
