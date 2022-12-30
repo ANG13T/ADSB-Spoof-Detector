@@ -1,0 +1,6 @@
+{ "now" : 1651363199.612,
+  "messages" : 3788801925,
+  "aircraft" : [
+    {"hex":"845f9f","type":"adsc","flight":"KZZFJS51","r":"JA11DFKZ","t":"B748","alt_baro":31996,"gs":487.0,"track":244.00,"baro_rate":48,"lat":57.328720,"lon":-177.562752,"nic":0,"rc":0,"seen_pos":873.399,"mlat":[],"tisb":[],"messages":4420465,"seen":803.5,"rssi":-29.2}
+  ]
+}
